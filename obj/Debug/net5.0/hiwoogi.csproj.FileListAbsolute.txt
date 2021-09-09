@@ -1,0 +1,16 @@
+C:\Users\jay12\hiwoogi\bin\Debug\net5.0\hiwoogi.exe
+C:\Users\jay12\hiwoogi\bin\Debug\net5.0\hiwoogi.deps.json
+C:\Users\jay12\hiwoogi\bin\Debug\net5.0\hiwoogi.runtimeconfig.json
+C:\Users\jay12\hiwoogi\bin\Debug\net5.0\hiwoogi.runtimeconfig.dev.json
+C:\Users\jay12\hiwoogi\bin\Debug\net5.0\hiwoogi.dll
+C:\Users\jay12\hiwoogi\bin\Debug\net5.0\ref\hiwoogi.dll
+C:\Users\jay12\hiwoogi\bin\Debug\net5.0\hiwoogi.pdb
+C:\Users\jay12\hiwoogi\obj\Debug\net5.0\hiwoogi.csproj.AssemblyReference.cache
+C:\Users\jay12\hiwoogi\obj\Debug\net5.0\hiwoogi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay12\hiwoogi\obj\Debug\net5.0\hiwoogi.AssemblyInfoInputs.cache
+C:\Users\jay12\hiwoogi\obj\Debug\net5.0\hiwoogi.AssemblyInfo.cs
+C:\Users\jay12\hiwoogi\obj\Debug\net5.0\hiwoogi.csproj.CoreCompileInputs.cache
+C:\Users\jay12\hiwoogi\obj\Debug\net5.0\hiwoogi.dll
+C:\Users\jay12\hiwoogi\obj\Debug\net5.0\ref\hiwoogi.dll
+C:\Users\jay12\hiwoogi\obj\Debug\net5.0\hiwoogi.pdb
+C:\Users\jay12\hiwoogi\obj\Debug\net5.0\hiwoogi.genruntimeconfig.cache
